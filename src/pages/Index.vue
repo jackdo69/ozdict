@@ -11,7 +11,7 @@
           class="bg-cyan-1"
           v-model="search"
           filled
-          placeholder="Search in Collocation dictionary..."
+          placeholder="Search in Urban dictionary..."
         >
           <template v-slot:append>
             <router-link 

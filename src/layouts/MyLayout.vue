@@ -18,7 +18,7 @@
           class="inputHeader"
           v-model="search"
           filled
-          placeholder="Search in Collocation dictionary..."
+          placeholder="Search in Urban dictionary..."
         >
           <template v-slot:append>
             <router-link to="/results" style="text-decoration:none">
